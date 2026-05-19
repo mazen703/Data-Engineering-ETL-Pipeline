@@ -5,3 +5,5 @@
 .read load_data_into_dwh.sql
 
 .read create_flat_mart.sql
+
+.read create_skills_mart.sql
