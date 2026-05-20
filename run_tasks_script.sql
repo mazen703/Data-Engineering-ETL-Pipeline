@@ -7,3 +7,5 @@
 .read create_flat_mart.sql
 
 .read create_skills_mart.sql
+.read create_priority_mart.sql
+.read update_priority_mart.sql
